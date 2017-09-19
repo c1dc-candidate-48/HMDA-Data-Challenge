@@ -36,7 +36,7 @@ Data file(s)	Description \
 
 Here is the schema of the expanded loans data.
 
-Field	Type \ 
+Field	Type \
 As_of_Year	integer \
 Agency_Code	integer \
 Agency_Code_Description	string \
