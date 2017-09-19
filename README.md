@@ -21,6 +21,7 @@ data_challenge
    - visualization.py
  - Insight_Report.docx
  - README.md
+ - requirements.txt
 
 
 **Data**
