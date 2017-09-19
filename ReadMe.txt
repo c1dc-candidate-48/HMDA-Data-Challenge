@@ -22,7 +22,7 @@ Analysis of HMDA data to determine the geography for Change Financial to enter i
 \pard\pardeftab720\ri0\partightenfactor0
 
 \b0 \cf0 \
-data_challenge\
+HMDA_Data_Challenge\
 \pard\pardeftab720\li720\fi-360\ri0\partightenfactor0
 \ls1\ilvl0
 \f1 \cf0 \'a5	
