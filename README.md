@@ -28,38 +28,38 @@ The data was obtained from the Consumer Financial Protection Bureau. The followi
 
 **Metadata**
 
-Data file(s)	Description 
-2012_to_2014_loans_data.csv	Data on home loans.
+Data file(s)	Description \
+2012_to_2014_loans_data.csv	Data on home loans. \
 2012_to_2014_institutions_data.csv	Data about the institutions.
 
 Here is the schema of the expanded loans data.
 
-Field	Type 
-As_of_Year	integer 
-Agency_Code	integer 
-Agency_Code_Description	string 
-Respondent_ID	string 
-Sequence_Number	integer 
-Loan_Amount_000	integer 
-Applicant_Income_000	integer 
-Loan_Purpose_Description	string 
-Loan_Type_Description	string 
-Lien_Status_Description	string 
-State_Code	integer 
-State	string 
-County_Code	integer 
-MSA_MD	integer 
-MSA_MD_Description	string 
-Census_Tract_Number	integer 
-FFIEC_Median_Family_Income	integer 
-Tract_to_MSA_MD_Income_Pct	integer 
-Number_of_Owner_Occupied_Units	integer 
-County_Name	integer 
-Conforming_Limit_000	integer 
-Conventional_Status	string 
-Conforming_Status	string 
-Conventional_Conforming_Flag	string 
-Respondent_Name_TS	string 
+Field	Type \ 
+As_of_Year	integer \
+Agency_Code	integer \
+Agency_Code_Description	string \
+Respondent_ID	string \
+Sequence_Number	integer \
+Loan_Amount_000	integer \
+Applicant_Income_000	integer \
+Loan_Purpose_Description	string \
+Loan_Type_Description	string \
+Lien_Status_Description	string \
+State_Code	integer \
+State	string \
+County_Code	integer \
+MSA_MD	integer \
+MSA_MD_Description	string \
+Census_Tract_Number	integer \
+FFIEC_Median_Family_Income	integer \
+Tract_to_MSA_MD_Income_Pct	integer \
+Number_of_Owner_Occupied_Units	integer \
+County_Name	integer \
+Conforming_Limit_000	integer \
+Conventional_Status	string \
+Conforming_Status	string \
+Conventional_Conforming_Flag	string \
+Respondent_Name_TS	string \
 Loan_group string
 
 **Getting Started**
