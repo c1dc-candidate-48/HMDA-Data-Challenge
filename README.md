@@ -66,11 +66,11 @@ Loan_group string
 
 **Getting Started**
 
-Copy the csv data files on the desktop. Please note that the path for the data retrieval from csv files has been given in accordance with MAC OS system. The path file as mentioned in the python codes may change depending on the Operating System.
+Copy the csv data files on the desktop. Please note that the path for the data retrieval from csv files has been given in accordance with MAC OS system. Please change accordingly if you are working on some other operating system. The path file as mentioned in the python codes may change depending on the Operating System.
 
 **Data Munging**
 
-Data munging is done by running the data_munging.py module. This module will load the Loans and Institutions data from their respective csv files, assign a 'Respondent_Name' to each loan application and create a new categorical field 'Loan_Group'. Further it will dump all the data into a json file.Run the data munging module by going into the ./src subdirectory and type the following command
+Data munging is done by running the data_munging.py module. This module will load the Loans and Institutions data from their respective csv files, assign a 'Respondent_Name' to each loan application and create a new categorical field 'Loan_Group'. Further it will dump all the data into a json file. Run the data munging module by going into the ./src subdirectory and type the following command
 
 python data_munging.py
 
@@ -78,7 +78,7 @@ This will create a new json file that contains the merged loan and institution d
 
 **Data Quality**
 
-Data quality reports have been provided by using 'Loan_Amount_000' and 'Respondent_Name_TS' fields.This module will provide outlier, duplicate and missing data. Run the data quality module by going into the ./src subdirectory and type the following command
+Data quality reports have been provided by using 'Loan_Amount_000' and 'Respondent_Name_TS' fields.This module will provide outlier, duplicate and missing data. Please create a folder named 'processed' on your desktop before moving onto the next step. Please keep in mind that the path given in the code is according to the MAC OS. Please change accordingly if you are working on some other operating system. After creating the folder, run the data quality module by going into the ./src subdirectory and type the following command
 
 python data_quality.py
 
