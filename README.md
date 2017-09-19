@@ -64,7 +64,7 @@ Conventional_Conforming_Flag	string \
 Respondent_Name_TS	string \
 Loan_group string
 
-**Getting Started**
+**Setup**
 
 Copy the csv data files on the desktop. Please note that the path for the data retrieval from csv files has been given in accordance with MAC OS system. Please change accordingly if you are working on some other operating system. The path file as mentioned in the python codes may change depending on the Operating System.
 
