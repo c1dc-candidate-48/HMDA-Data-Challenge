@@ -19,6 +19,7 @@ data_challenge
    - data_munging.py
    - data_quality.py
    - visualization.py
+ - Insight_Report.docx
  - README.md
 
 
